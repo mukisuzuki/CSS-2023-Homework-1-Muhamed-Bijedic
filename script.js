@@ -6,6 +6,7 @@ const questions = [
     b: "Coding Style Sheets",
     c: "Cascading Simple Sheets",
     d: "Cars SUVs & Sailboats",
+    e: "Chemical Sample Source",
     correct: "a",
   },
   {
@@ -14,6 +15,7 @@ const questions = [
     b: "2021",
     c: "2022",
     d: "2023",
+    e: "2019",
     correct: "b",
   },
   {
@@ -21,8 +23,27 @@ const questions = [
     a: "Bosnia and Herzegovina Famous Foundation",
     b: "Bosnia and Herzegovina Futures Foundation",
     c: "Bosnia and Herzegovina Factory Foundation",
-    d: "none of the above",
+    d: "Bosnia and Herzegovina Fauna Foundation",
+    e: "none of the above",
     correct: "b",
+  },
+  {
+    question: "Which one of these power amplifiers has worst efficiency?",
+    a: "B amplifier",
+    b: "A amplifier",
+    c: "AB amplifier",
+    d: "D amplifier",
+    e: "C amplifier",
+    correct: "b",
+  },
+  {
+    question: "Which one of these components is the fastest?",
+    a: "RAM memory",
+    b: "HDD",
+    c: "CPU",
+    d: "Mouse",
+    e: "Keyboard",
+    correct: "c",
   },
 ];
 
